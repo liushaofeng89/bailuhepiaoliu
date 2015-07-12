@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-	<title>景区地图 - 白鹿河QQ漂流</title>
+	<title>联系我们 - 白鹿河QQ漂流</title>
 	<link rel="shortcut icon" href="images/logo.ico" type="image/x-icon" />
 
     <!-- Bootstrap Core CSS -->
@@ -80,13 +80,14 @@
         <!-- Page Heading/Breadcrumbs -->
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">景区地图
-                    <small>乘车路线</small>
+                <h1 class="page-header">联系我们
+                    <small> <a href="#">联系我们</a>
+                    </small>
                 </h1>
                 <ol class="breadcrumb">
                     <li><a href="index.html">首页</a>
                     </li>
-                    <li class="active">景区地图</li>
+                    <li class="active">联系我们</li>
                 </ol>
             </div>
         </div>
@@ -95,38 +96,39 @@
         <!-- Content Row -->
         <div class="row">
             <!-- Map Column -->
-            <div class="col-md-7">
-				<img src="images/map01.jpg"/>
-                
-            </div>
-            <!-- Contact Details Column -->
-            <div class="col-md-5">
-				<img src="images/map02.jpg" style="height:540px;"/>
+            <div class="col-md-8" id="allmap" style="height:450px;">
 			</div>
+            <!-- Contact Details Column -->
+            <div class="col-md-4">
+                <h3>联系详情</h3>
+                <p>
+                    四川省彭州市白鹿中法风情小镇AAAA级景区<br>
+                </p>
+                <p><i class="fa fa-phone"></i> 
+                    <abbr title="Phone">P</abbr>: 028-83770568</p>
+                <p><i class="fa fa-envelope-o"></i> 
+                    <abbr title="Email">E</abbr>: <a href="mailto:bailupiaoliu@163.com">bailupiaoliu@163.com</a>
+                </p>
+                <p><i class="fa fa-clock-o"></i> 
+                    <abbr title="Hours">H</abbr>: Monday - Friday: 9:00 AM to 5:00 PM</p>
+                <ul class="list-unstyled list-inline list-social-icons">
+                    <li>
+                        <a href="#"><i class="fa fa-facebook-square fa-2x"></i></a>
+                    </li>
+                    <li>
+                        <a href="#"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                    </li>
+                    <li>
+                        <a href="#"><i class="fa fa-twitter-square fa-2x"></i></a>
+                    </li>
+                    <li>
+                        <a href="#"><i class="fa fa-google-plus-square fa-2x"></i></a>
+                    </li>
+                </ul>
+            </div>
         </div>
         <!-- /.row -->
-		
-		<hr>
-		
-		<div class="row">
-            <!-- Contact Details Column -->
-            <div class="col-md-12">
-                <h3><strong>成都乘车</strong></h3>
-                <p>
-                    1、五块石汽车站-彭州客运中心-白鹿班车-白鹿风情小镇<br>
-					2、火车北站-彭州高铁站-彭州客运中心-白鹿班车-白鹿风情小镇<br>
-                </p>
-				<h3><strong>成都自驾</strong></h3>
-                <p>
-                    1、三环成彭立交-成彭高速-彭州-牡丹大道-金彭大道-朝阳北路-滨河路上彭白公路-通济大桥右转-小夫路-白鹿<br>
-					2、沙西西线-古镇右转-彭郫路-彭州-沿彭州二环路-上彭白路-白鹿<br>
-					3、北新线-彭州濛阳-经汉彭路至彭州-经金彭大道-朝阳北路-滨河路-上彭白路-小夫路-白鹿
-                </p>
-			</div>
-        </div>
 
-        <hr>
-   
     </div>
     <!-- /.container -->
 	
@@ -190,7 +192,25 @@
     <!-- Do not edit these files! In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
     <script src="js/jqBootstrapValidation.js"></script>
     <script src="js/contact_me.js"></script>
+	<!-- baidu map -->
+	<script src="http://api.map.baidu.com/api?v=2.0&ak=QdUwoaIjS61b6XAGmXkQ3WGT"></script>
+	<script type="text/javascript">
+		// 百度地图API功能
+		var map = new BMap.Map("allmap");
+		var point = new BMap.Point(103.918271,31.194515);
+		map.centerAndZoom(point, 12);
+		var marker = new BMap.Marker(point);  // 创建标注
+		map.addOverlay(marker);              // 将标注添加到地图中
 
+		var label = new BMap.Label("白鹿河QQ漂流，我在这里等你哦！",{offset:new BMap.Size(20,-20)});
+		marker.setLabel(label);
+		
+		//创建小狐狸
+		var pt = new BMap.Point(103.918271,31.194515);
+		var myIcon = new BMap.Icon("http://developer.baidu.com/map/jsdemo/img/fox.gif", new BMap.Size(200,130));
+		var marker2 = new BMap.Marker(pt,{icon:myIcon});  // 创建标注
+		map.addOverlay(marker2);              // 将标注添加到地图中
+	</script>
 </body>
 
 </html>
