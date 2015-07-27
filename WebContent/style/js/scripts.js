@@ -148,9 +148,9 @@ $(document).ready(function () {
                     '<div class="page-title">' +
                     '<div class="container inner">' +
                     '<div class="navigation">' +
-                    '<a href="#" id="gwi-thumbs" class="btn pull-left back">Back</a>' +
-                    '<a href="#" id="gwi-next" class="btn pull-right rm0 nav-next-item">Next</a>' +
-                    '<a href="#" id="gwi-prev" class="btn pull-right rm5 nav-prev-item">Prev</a>' +
+                    '<a href="#" id="gwi-thumbs" class="btn pull-left back">返回</a>' +
+                    '<a href="#" id="gwi-next" class="btn pull-right rm0 nav-next-item">下一张</a>' +
+                    '<a href="#" id="gwi-prev" class="btn pull-right rm5 nav-prev-item">前一张</a>' +
                     '</div>' +
                     '<div class="clear"></div>' +
                     '</div>' +

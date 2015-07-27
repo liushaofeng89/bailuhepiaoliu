@@ -1512,16 +1512,16 @@ footer .post-list li em {
 .share-links ul li .btn {
     margin: 0
 }
-.share-links .share-facebook {
+.share-links .share-qq {
     background: #3d5b9b
 }
-.share-links .share-facebook:hover {
+.share-links .share-qq:hover {
     background: #334c8e
 }
-.share-links .share-twitter {
+.share-links .share-weixin {
     background: #5aa8cd
 }
-.share-links .share-twitter:hover {
+.share-links .share-weixin:hover {
     background: #499ac8
 }
 .share-links .share-google-plus {
@@ -1530,10 +1530,10 @@ footer .post-list li em {
 .share-links .share-google-plus:hover {
     background: #2e2e2e
 }
-.share-links .share-pinterest {
+.share-links .share-weibo {
     background: #c53942
 }
-.share-links .share-pinterest:hover {
+.share-links .share-weibo:hover {
     background: #bc2d32
 }
 .share-links .share-linkedin {

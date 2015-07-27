@@ -105,9 +105,9 @@
       <h1 class="share-button">点击 <span class="colored">&</span> 分享本站</h1>
       <div class="share-links">
         <ul>
-          <li><a class="btn share-facebook" href="#"><i class="icon-qq"></i> QQ</a></li>
-          <li><a class="btn share-twitter" href="#"><i class="icon-chat-empty"></i> WeiXin</a></li>
-          <li><a class="btn share-pinterest" href="#"><i class="icon-sina-weibo"></i> WeiBo</a></li>
+          <li><a class="btn share-qq" href="#"><i class="icon-qq"></i> QQ</a></li>
+          <li><a class="btn share-weixin" href="#"><i class="icon-chat-empty"></i> WeiXin</a></li>
+          <li><a class="btn share-weibo" href="#"><i class="icon-sina-weibo"></i> WeiBo</a></li>
         </ul>
       </div>
     </div>
@@ -126,116 +126,115 @@
             <li><a href="#" data-filter=".graphic">风景</a></li>
             <li><a href="#" data-filter=".A">A段</a></li>
             <li><a href="#" data-filter=".B">B段</a></li>
-            <li><a href="#" data-filter=".other">其他</a></li>
           </ul>
           
           <!-- /filter -->
           
           <ul class="content-slider items">
             <li class="item thumb A">
-              <figure><a href="#" data-contenturl="image.html" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
+              <figure><a href="#" data-contenturl="image.jsp?image=a2.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">全屏查看</div>
                 </div>
-                <img src="style/images/art/p1.jpg" alt=""/> </a></figure>
+                <img src="images/440x330/a2.jpg" alt=""/> </a></figure>
             </li>
             <li class="item thumb graphic">
-              <figure><a href="#" data-contenturl="image.html" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
+              <figure><a href="#" data-contenturl="image.jsp?image=p1.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">全屏查看</div>
                 </div>
-                <img src="style/images/art/p2.jpg" alt="" /> </a></figure>
+                <img src="images/440x330/p1.jpg" alt="" /> </a></figure>
             </li>
             <li class="item thumb graphic">
-              <figure><a href="#" data-contenturl="image.html" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
+              <figure><a href="#" data-contenturl="image.jsp?image=p2.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">全屏查看</div>
                 </div>
-                <img src="images/pictures/p1.jpg" alt="" /> </a></figure>
+                <img src="images/440x330/p2.jpg" alt="" /> </a></figure>
             </li>
             <li class="item thumb graphic">
-              <figure><a href="#" data-contenturl="image.html" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
+              <figure><a href="#" data-contenturl="image.htmlimage.jsp?image=p3.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">全屏查看</div>
                 </div>
-                <img src="images/pictures/p2.jpg" alt="" /> </a></figure>
-            </li>
-            <li class="item thumb other">
-              <figure><a href="#" data-contenturl="image.html" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">全屏查看</div>
-                </div>
-                <img src="style/images/art/p5.jpg" alt="" /> </a></figure>
-            </li>
-            <li class="item thumb B">
-              <figure><a href="#" data-contenturl="image.html" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">全屏查看</div>
-                </div>
-                <img src="style/images/art/p6.jpg" alt="" /> </a></figure>
-            </li>
-            <li class="item thumb other">
-              <figure><a href="#" data-contenturl="image.html" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">全屏查看</div>
-                </div>
-                <img src="style/images/art/p7.jpg" alt="" /> </a></figure>
+                <img src="images/440x330/p3.jpg" alt="" /> </a></figure>
             </li>
             <li class="item thumb A">
-              <figure><a href="#" data-contenturl="image.html" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
+              <figure><a href="#" data-contenturl="image.jsp?image=p5.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">全屏查看</div>
                 </div>
-                <img src="style/images/art/p8.jpg" alt="" /> </a></figure>
-            </li>
-            <li class="item thumb graphic">
-              <figure><a href="#" data-contenturl="image.html" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">全屏查看</div>
-                </div>
-                <img src="style/images/art/p9.jpg" alt="" /> </a></figure>
-            </li>
-            <li class="item thumb A">
-              <figure><a href="#" data-contenturl="image.html" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">全屏查看</div>
-                </div>
-                <img src="style/images/art/p10.jpg" alt="" /> </a></figure>
+                <img src="images/440x330/a5.jpg" alt="" /> </a></figure>
             </li>
             <li class="item thumb B">
-              <figure><a href="#" data-contenturl="image.html" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
+              <figure><a href="#" data-contenturl="image.jsp?image=b1.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">全屏查看</div>
                 </div>
-                <img src="style/images/art/p11.jpg" alt="" /> </a></figure>
+                <img src="images/440x330/b1.jpg" alt="" /> </a></figure>
             </li>
             <li class="item thumb B">
-              <figure><a href="#" data-contenturl="image.html" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
+              <figure><a href="#" data-contenturl="image.jsp?image=b4.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">全屏查看</div>
                 </div>
-                <img src="style/images/art/p12.jpg" alt="" /> </a></figure>
-            </li>
-            <li class="item thumb other">
-              <figure><a href="#" data-contenturl="image.html" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">全屏查看</div>
-                </div>
-                <img src="style/images/art/p13.jpg" alt="" /> </a></figure>
-            </li>
-            <li class="item thumb graphic">
-              <figure><a href="#" data-contenturl="image.html" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
-                <div class="text-overlay">
-                  <div class="info">全屏查看</div>
-                </div>
-                <img src="style/images/art/p14.jpg" alt="" /> </a></figure>
+                <img src="images/440x330/b4.jpg" alt="" /> </a></figure>
             </li>
             <li class="item thumb A">
-              <figure><a href="#" data-contenturl="image.html" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
+              <figure><a href="#" data-contenturl="image.jsp?image=a1.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">全屏查看</div>
                 </div>
-                <img src="style/images/art/p15.jpg" alt="" /> </a></figure>
+                <img src="images/440x330/a1.jpg" alt="" /> </a></figure>
+            </li>
+            <li class="item thumb graphic">
+              <figure><a href="#" data-contenturl="image.jsp?image=p4.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
+                <div class="text-overlay">
+                  <div class="info">全屏查看</div>
+                </div>
+                <img src="images/440x330/p4.jpg" alt="" /> </a></figure>
+            </li>
+            <li class="item thumb A">
+              <figure><a href="#" data-contenturl="image.jsp?image=a3.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
+                <div class="text-overlay">
+                  <div class="info">全屏查看</div>
+                </div>
+                <img src="images/440x330/a3.jpg" alt="" /> </a></figure>
+            </li>
+            <li class="item thumb B">
+              <figure><a href="#" data-contenturl="b2" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
+                <div class="text-overlay">
+                  <div class="info">全屏查看</div>
+                </div>
+                <img src="images/440x330/b2.jpg" alt="" /> </a></figure>
+            </li>
+            <li class="item thumb B">
+              <figure><a href="#" data-contenturl="image.jsp?image=b3.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
+                <div class="text-overlay">
+                  <div class="info">全屏查看</div>
+                </div>
+                <img src="images/440x330/b3.jpg" alt="" /> </a></figure>
+            </li>
+            <li class="item thumb B">
+              <figure><a href="#" data-contenturl="image.jsp?image=b5.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
+                <div class="text-overlay">
+                  <div class="info">全屏查看</div>
+                </div>
+                <img src="images/440x330/b5.jpg" alt="" /> </a></figure>
+            </li>
+            <li class="item thumb graphic">
+              <figure><a href="#" data-contenturl="image.jsp?image=p5.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
+                <div class="text-overlay">
+                  <div class="info">全屏查看</div>
+                </div>
+                <img src="images/440x330/p5.jpg" alt="" /> </a></figure>
+            </li>
+            <li class="item thumb A">
+              <figure><a href="#" data-contenturl="image.htmlimage.jsp?image=a4.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
+                <div class="text-overlay">
+                  <div class="info">全屏查看</div>
+                </div>
+                <img src="images/440x330/a4.jpg" alt="" /> </a></figure>
             </li>
           </ul>
           <!-- /.items --> 
