@@ -105,9 +105,9 @@
       <h1 class="share-button">点击 <span class="colored">&</span> 分享本站</h1>
       <div class="share-links">
         <ul>
-          <li><a class="btn share-qq" href="#"><i class="icon-qq"></i> QQ</a></li>
-          <li><a class="btn share-weixin" href="#"><i class="icon-chat-empty"></i> WeiXin</a></li>
-          <li><a class="btn share-weibo" href="#"><i class="icon-sina-weibo"></i> WeiBo</a></li>
+          <li><a class="btn share-qq" href="#" onclick="shareToQzone(event)"><i class="icon-qq"></i> QQ</a></li>
+          <li><a class="btn share-weibo" href="#" onclick="shareToSinaWB(event)"><i class="icon-sina-weibo"></i> WeiBo</a></li>
+          <li><a class="btn share-weixin" href="#footer"><i class="icon-chat-empty"></i> WeiXin</a></li>
         </ul>
       </div>
     </div>
@@ -428,7 +428,7 @@
           <div class="col-wrapper">
             <div class="icon-border bm10"> <i class="budicon-award-1"></i> </div>
             <h4>4523</h4>
-            <p>Awards Won</p>
+            <p>游客人数</p>
           </div>
         </div>
       </div>

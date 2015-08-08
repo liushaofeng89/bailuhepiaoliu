@@ -340,9 +340,6 @@ footer .post-list {
     margin: 0;
     padding: 0;
 }
-footer .post-list li {
-    margin-top: 15px
-}
 footer .post-list li:first-child {
     margin: 0
 }

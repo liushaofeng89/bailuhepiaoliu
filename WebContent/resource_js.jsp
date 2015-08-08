@@ -16,3 +16,4 @@
 <script src="style/js/retina.js"></script> 
 <script src="style/js/google-code-prettify/prettify.js"></script> 
 <script src="style/js/scripts.js"></script>
+<script src="style/js/share.js"></script>
