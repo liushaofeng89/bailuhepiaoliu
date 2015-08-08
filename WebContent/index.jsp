@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="keywords" content="白鹿河QQ漂流,漂流,白鹿河镇,避暑" />
+<meta name="keywords" content="白鹿河QQ漂流,白鹿漂流,漂流,白鹿河镇,旅游,避暑" />
 <meta name="description" content="白鹿河QQ漂流位于国家AAAA级旅游景区、国家级龙门山地质公园、省级白鹿森林公园、有川西天然氧吧避暑天堂美誉之称的四川省彭州市白鹿河。">
 <meta name="author" content="刘少锋">
 <link rel="shortcut icon" href="favicon.ico">
@@ -26,7 +26,7 @@
                 <div class="smooth"><a href="#portfolio" class="btn btn-border">浏览图片</a></div>
               </div>
             </li>
-            <li data-transition="fade"> <img src="style/images/art/slider-bg2.jpg" alt="" />
+            <li data-transition="fade" style="color: #fff"> <img src="style/images/art/slider-bg2.jpg" alt="" />
               <div class="caption large customin customout" data-x="center" data-y="255" data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
 						data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
 						data-speed="600"
@@ -72,16 +72,16 @@
           </div>
           <div class="col-sm-3">
             <div class="col-wrapper">
-              <div class="icon-wrapper"> <i class="budicon-cash-yen"></i> </div>
-              <h3>银行</h3>
-              <p>Nullam id dolor id nibh ultricies vehicula ut id elit. Cum sociis natoque penatibus et magnis dis parturient monte nascetur. </p>
+              <div class="icon-wrapper"> <i class="budicon-home-1"></i> </div>
+              <h3>住宿</h3>
+              <p>Curabitur blandit matti tempus porttitor. Donec id elit non mi porta ut gravida at eget metus. Consectetur adipiscing elit. </p>
             </div>
           </div>
           <div class="col-sm-3">
             <div class="col-wrapper">
-              <div class="icon-wrapper"> <i class="budicon-shopping-cart"></i> </div>
-              <h3>购物</h3>
-              <p>Curabitur blandit matti tempus porttitor. Donec id elit non mi porta ut gravida at eget metus. Consectetur adipiscing elit.</p>
+              <div class="icon-wrapper"> <i class="budicon-cash-yen"></i> </div>
+              <h3>银行</h3>
+              <p>成都农商银行，成都市农村信用社。</p>
             </div>
           </div>
           <div class="col-sm-3">
@@ -265,7 +265,7 @@
             <h2>法国风情小镇</h2>
             <p class="lead">"带给你别样的生活韵味"</p>
             <p>白鹿河漂流位于国家AAAA级旅游景区、国家级龙门山地质公园、省级白鹿森林公园、有川西天然氧吧，避暑天堂美誉的四川省彭州市境内白鹿镇——中法风情小镇，是彭州市核心景区，也是白鹿旅游的精华段。</p>
-            <p>乘漂流艇顺白鹿河而下，流水淙淙、青山巍巍，蜿蜒的山路直达上书院，历史的沧桑、宗教的神圣、法式的浪漫，古今中外的文化在这里汇集，浪漫之旅从这里起航……白鹿河漂流将带给你一次奇妙的时间与空间的穿越之旅。</p>
+            <p>乘漂流艇顺白鹿河而下，流水淙淙、青山巍巍，蜿蜒的山路直达上书院，历史的沧桑、宗教的神圣、法式的浪漫，古今中外的文化在这里汇集，浪漫之旅从这里起航。白鹿河漂流将带给你一次奇妙的时间与空间的穿越之旅……</p>
           </div>
           <div class="col-sm-4">
             <figure><img src="images/about.jpg" alt="领报修院" /></figure>
@@ -298,7 +298,7 @@
                     <!-- /.icon -->
                     <div class="text">
                       <h4>中法友谊桥</h4>
-                      <p>Nulla vitae libero, a pharetra augue. Integer posuere a ante venenatis condimentum. Donec id elit non.</p>
+                      <p>又名金桥，始建于1893年，位于白鹿镇金桥村西北100米。东西走向，砖石结构，双孔拱桥，东起白三公路，西至下书院大门，是当时通往下书院的必经之路。中法桥全长30.8米，宽4.7米，跨度9.65米，拱高5米，桥栏高1米，桥面用青石板铺成。地震后全桥仅余单孔，成为遗迹。我们可以从周围数十根名木古树依稀看到它昔日的辉煌。</p>
                     </div>
                     <!-- /.text --> 
                   </div>
@@ -372,7 +372,7 @@
                     <!-- /.icon -->
                     <div class="text">
                       <h4>最牛教学楼</h4>
-                      <p>Nulla vitae libero, a pharetra augue. Integer posuere a ante venenatis condimentum. Donec id elit non.</p>
+                      <p>5.12大地震发生时，本处于同一水平面的两座教学楼，在地震发生后，靠山的教学楼向上抬升了3米，但楼梯依然稳健，白鹿中心小学1046名学生因此得以安全撤离。所以我们称之为史上最牛教学楼。</p>
                     </div>
                     <!-- /.text --> 
                   </div>
@@ -381,8 +381,8 @@
                     <div class="icon"> <i class="budicon-radio icn"></i> </div>
                     <!-- /.icon -->
                     <div class="text">
-                      <h4>地震体验馆</h4>
-                      <p>Nulla vitae libero, a pharetra augue. Integer posuere a ante venenatis condimentum. Donec id elit non.</p>
+                      <h4>地震遗址公园</h4>
+                      <p>原为下书院，又称无玷书院，解放后，改建为白鹿中心小学，原下书院仅存门口一段围墙作为文物保存在这里，见证着历史变迁。512地震后，改建为地震遗址公园。设立地震科普馆、地震体验馆、抗震训练馆。</p>
                     </div>
                     <!-- /.text --> 
                   </div>

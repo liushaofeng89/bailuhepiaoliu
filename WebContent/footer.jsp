@@ -4,9 +4,10 @@
       <div class="row">
         <div class="col-sm-3">
           <div class="widget">
-            <h3 class="widget-title">关于我们</h3>
-            <p>Aenean lacinia bibendum nulla sed leo posuere erat a ante venenatis dapibus posuere velit aliquet. Donec ullamcorper metus auctor fringi. Nullam quis risus. Vestibulum id ligula porta euismod. </p>
-            <p>Maecenas faucibus mollis. Morbi leo risus, porta ac consectetur ac eros.</p>
+            <h3 class="widget-title">关于项目</h3>
+            <p>白鹿河漂流项目分为A、B两段河道：</p>
+            <p>A段是从杰特桥至天生桥，河道长约5公里，奇石缓流，亲子同乐；</p>
+            <p>B段是红华村至老街，河道长约5公里，青山幽谷，清流激荡。</p>
           </div>
           <!-- /.widget --> 
         </div>
