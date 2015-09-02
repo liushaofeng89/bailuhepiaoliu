@@ -62,7 +62,7 @@
     
     <div class="sub-footer">
       <div class="container">
-        <p class="pull-left">Copyright © 2015 BAILUPIAOLIU.COM. All right reserved.</p>
+        <p class="pull-left">Copyright © 2015 BAILUPIAOLIU.COM 版权所有 <a href="http://www.miitbeian.gov.cn/">蜀ICP备15024542号-1</a></p>
 	      <ul class="social pull-right">
 	        <li></li>
 	        <li></li>
