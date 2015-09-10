@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="keywords" content="白鹿河QQ漂流,白鹿漂流,漂流,白鹿河镇,旅游,避暑" />
+<meta name="keywords" content="白鹿河QQ漂流,白鹿河漂流,白鹿漂流,漂流,白鹿河镇,旅游,避暑" />
 <meta name="description" content="白鹿河QQ漂流位于国家AAAA级旅游景区、国家级龙门山地质公园、省级白鹿森林公园、有川西天然氧吧避暑天堂美誉之称的四川省彭州市白鹿河。">
 <meta name="author" content="刘少锋">
 <link rel="shortcut icon" href="favicon.ico">
@@ -19,14 +19,14 @@
       <div class="fullscreenbanner-container revolution">
         <div class="fullscreenbanner">
           <ul>
-            <li data-transition="fade"> <img src="style/images/art/slider-bg1.jpg" alt="" />
+            <li data-transition="fade"> <img src="style/images/art/slider-bg1.jpg" alt="白鹿河QQ漂流" />
               <div class="caption large sfb" data-x="center" data-y="245" data-speed="900" data-start="800" data-easing="Sine.easeOut">白鹿河QQ漂流</div>
               <div class="caption small sfb" data-x="center" data-y="319" data-speed="900" data-start="1500" data-easing="Sine.easeOut">四川省彭州市白鹿中法风情小镇AAAA级景区</div>
               <div class="caption small sfb" data-x="center" data-y="362" data-speed="900" data-start="2200" data-easing="Sine.easeOut">
                 <div class="smooth"><a href="#portfolio" class="btn btn-border">浏览图片</a></div>
               </div>
             </li>
-            <li data-transition="fade" style="color: #fff"> <img src="style/images/art/slider-bg2.jpg" alt="" />
+            <li data-transition="fade" style="color: #fff"> <img src="style/images/art/slider-bg2.jpg" alt="白鹿河QQ漂流" />
               <div class="caption large customin customout" data-x="center" data-y="255" data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
 						data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
 						data-speed="600"
@@ -42,7 +42,7 @@
 						data-endspeed="300"
 						data-endeasing="Power1.easeIn">逛中法风情小镇，耍白鹿QQ漂流</div>
             </li>
-            <li data-transition="fade"> <img src="style/images/art/slider-bg3.jpg" alt="" />
+            <li data-transition="fade"> <img src="style/images/art/slider-bg3.jpg" alt="白鹿河QQ漂流" />
               <div class="caption large lite sfb" data-x="center" data-y="245" data-speed="900" data-start="800" data-easing="Sine.easeOut">白鹿河QQ漂流</div>
               <div class="caption small lite sfb" data-x="center" data-y="319"  data-speed="900" data-start="1500" data-easing="Sine.easeOut">我们在这里等你！</div>
               <div class="caption small sfb" data-x="center" data-y="362" data-speed="900" data-start="2200" data-easing="Sine.easeOut">
@@ -136,105 +136,105 @@
                 <div class="text-overlay">
                   <div class="info">全屏查看</div>
                 </div>
-                <img src="images/440x330/a2.jpg" alt=""/> </a></figure>
+                <img src="images/440x330/a2.jpg" alt="白鹿河QQ漂流"/> </a></figure>
             </li>
             <li class="item thumb graphic">
               <figure><a href="#" data-contenturl="image.jsp?image=p1.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">全屏查看</div>
                 </div>
-                <img src="images/440x330/p1.jpg" alt="" /> </a></figure>
+                <img src="images/440x330/p1.jpg" alt="白鹿河QQ漂流" /> </a></figure>
             </li>
             <li class="item thumb graphic">
               <figure><a href="#" data-contenturl="image.jsp?image=p2.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">全屏查看</div>
                 </div>
-                <img src="images/440x330/p2.jpg" alt="" /> </a></figure>
+                <img src="images/440x330/p2.jpg" alt="白鹿河QQ漂流" /> </a></figure>
             </li>
             <li class="item thumb graphic">
               <figure><a href="#" data-contenturl="image.htmlimage.jsp?image=p3.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">全屏查看</div>
                 </div>
-                <img src="images/440x330/p3.jpg" alt="" /> </a></figure>
+                <img src="images/440x330/p3.jpg" alt="白鹿河QQ漂流" /> </a></figure>
             </li>
             <li class="item thumb A">
               <figure><a href="#" data-contenturl="image.jsp?image=p5.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">全屏查看</div>
                 </div>
-                <img src="images/440x330/a5.jpg" alt="" /> </a></figure>
+                <img src="images/440x330/a5.jpg" alt="白鹿河QQ漂流" /> </a></figure>
             </li>
             <li class="item thumb B">
               <figure><a href="#" data-contenturl="image.jsp?image=b1.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">全屏查看</div>
                 </div>
-                <img src="images/440x330/b1.jpg" alt="" /> </a></figure>
+                <img src="images/440x330/b1.jpg" alt="白鹿河QQ漂流" /> </a></figure>
             </li>
             <li class="item thumb B">
               <figure><a href="#" data-contenturl="image.jsp?image=b4.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">全屏查看</div>
                 </div>
-                <img src="images/440x330/b4.jpg" alt="" /> </a></figure>
+                <img src="images/440x330/b4.jpg" alt="白鹿河QQ漂流" /> </a></figure>
             </li>
             <li class="item thumb A">
               <figure><a href="#" data-contenturl="image.jsp?image=a1.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">全屏查看</div>
                 </div>
-                <img src="images/440x330/a1.jpg" alt="" /> </a></figure>
+                <img src="images/440x330/a1.jpg" alt="白鹿河QQ漂流" /> </a></figure>
             </li>
             <li class="item thumb graphic">
               <figure><a href="#" data-contenturl="image.jsp?image=p4.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">全屏查看</div>
                 </div>
-                <img src="images/440x330/p4.jpg" alt="" /> </a></figure>
+                <img src="images/440x330/p4.jpg" alt="白鹿河QQ漂流" /> </a></figure>
             </li>
             <li class="item thumb A">
               <figure><a href="#" data-contenturl="image.jsp?image=a3.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">全屏查看</div>
                 </div>
-                <img src="images/440x330/a3.jpg" alt="" /> </a></figure>
+                <img src="images/440x330/a3.jpg" alt="白鹿河QQ漂流" /> </a></figure>
             </li>
             <li class="item thumb B">
               <figure><a href="#" data-contenturl="b2" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">全屏查看</div>
                 </div>
-                <img src="images/440x330/b2.jpg" alt="" /> </a></figure>
+                <img src="images/440x330/b2.jpg" alt="白鹿河QQ漂流" /> </a></figure>
             </li>
             <li class="item thumb B">
               <figure><a href="#" data-contenturl="image.jsp?image=b3.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">全屏查看</div>
                 </div>
-                <img src="images/440x330/b3.jpg" alt="" /> </a></figure>
+                <img src="images/440x330/b3.jpg" alt="白鹿河QQ漂流" /> </a></figure>
             </li>
             <li class="item thumb B">
               <figure><a href="#" data-contenturl="image.jsp?image=b5.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">全屏查看</div>
                 </div>
-                <img src="images/440x330/b5.jpg" alt="" /> </a></figure>
+                <img src="images/440x330/b5.jpg" alt="白鹿河QQ漂流" /> </a></figure>
             </li>
             <li class="item thumb graphic">
               <figure><a href="#" data-contenturl="image.jsp?image=p5.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">全屏查看</div>
                 </div>
-                <img src="images/440x330/p5.jpg" alt="" /> </a></figure>
+                <img src="images/440x330/p5.jpg" alt="白鹿河QQ漂流" /> </a></figure>
             </li>
             <li class="item thumb A">
               <figure><a href="#" data-contenturl="image.htmlimage.jsp?image=a4.jpg" data-callback="callPortfolioScripts();" data-contentcontainer=".pcw">
                 <div class="text-overlay">
                   <div class="info">全屏查看</div>
                 </div>
-                <img src="images/440x330/a4.jpg" alt="" /> </a></figure>
+                <img src="images/440x330/a4.jpg" alt="白鹿河QQ漂流" /> </a></figure>
             </li>
           </ul>
           <!-- /.items --> 

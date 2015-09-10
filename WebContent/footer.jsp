@@ -36,7 +36,7 @@
         <div class="col-sm-3">
           <div class="widget">
             <h3 class="widget-title">联系我们</h3>
-            <p>白鹿河QQ漂流欢迎您的光临！</p>
+            <p>四川省森悦旅游资源开发有限公司旗下项目</p>
             <div class="contact-info"> <i class="icon-location"></i> 四川省彭州市白鹿镇 <br />
               <i class="icon-phone"></i>+86 (028) 83770568 <br />
               <i class="icon-mail"></i> <a mail="mailto:bailupiaoliu@163.com">bailupiaoliu@163.com</a> </div>
