@@ -1,19 +1,19 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-<script src="style/js/jquery.min.js"></script> 
-<script src="style/js/bootstrap.min.js"></script> 
+<script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script> 
+<script src="http://apps.bdimg.com/libs/bootstrap/3.3.4/js/bootstrap.min.js"></script> 
 <script src="style/js/twitter-bootstrap-hover-dropdown.min.js"></script> 
 <script src="style/js/jquery.themepunch.plugins.min.js"></script> 
 <script src="style/js/jquery.themepunch.revolution.min.js"></script> 
 <script src="style/js/jquery.easytabs.min.js"></script> 
-<script src="style/js/owl.carousel.min.js"></script> 
-<script src="style/js/jquery.isotope.min.js"></script> 
+<script src="http://apps.bdimg.com/libs/owl-carousel/1.32/owl.carousel.min.js"></script> 
+<script src="http://libs.useso.com/js/jquery.isotope/1.5.25/jquery.isotope.min.js"></script> 
 <script src="style/js/jquery.fitvids.js"></script> 
-<script src="style/js/jquery.fancybox.pack.js"></script> 
-<script src="style/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=1.0.2"></script> 
-<script src="style/js/fancybox/helpers/jquery.fancybox-media.js?v=1.0.0"></script> 
+<script src="http://libs.useso.com/js/fancybox/2.1.5/jquery.fancybox.pack.js"></script> 
+<script src="http://libs.useso.com/js/fancybox/2.1.5/helpers/jquery.fancybox-thumbs.js?v=1.0.2"></script> 
+<script src="http://libs.useso.com/js/fancybox/2.1.5/helpers/jquery.fancybox-media.js?v=1.0.0"></script> 
 <script src="style/js/jquery.slickforms.js"></script> 
 <script src="style/js/instafeed.min.js"></script> 
-<script src="style/js/retina.js"></script> 
+<script src="http://libs.useso.com/js/retina.js/1.0.1/retina.min.js"></script>  
 <script src="style/js/google-code-prettify/prettify.js"></script> 
 <script src="style/js/scripts.js"></script>
 <script src="style/js/share.js"></script>
